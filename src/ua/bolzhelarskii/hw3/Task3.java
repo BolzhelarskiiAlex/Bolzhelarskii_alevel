@@ -1,3 +1,5 @@
+package ua.bolzhelarskii.hw3;
+
 import java.util.Scanner;
 
 public class Task3 {

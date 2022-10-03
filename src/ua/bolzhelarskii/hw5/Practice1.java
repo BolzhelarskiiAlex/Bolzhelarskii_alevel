@@ -1,3 +1,5 @@
+package ua.bolzhelarskii.hw5;
+
 public class Practice1 {
     public static void main(String[] args) {
         double[] prices = {1050.5, 150, 500.25, 3500,

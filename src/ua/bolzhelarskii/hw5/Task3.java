@@ -1,3 +1,5 @@
+package ua.bolzhelarskii.hw5;
+
 import java.util.Arrays;
 
 public class Task3 {

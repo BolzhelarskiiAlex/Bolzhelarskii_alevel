@@ -1,3 +1,5 @@
+package ua.bolzhelarskii.hw5;
+
 public class Practice2 {
     public static void main(String[] args) {
         int[] heights = {165, 156, -178, -176, 164, -154, 205, -185, 177, 168, -155, -170,
