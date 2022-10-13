@@ -2,7 +2,7 @@ package ua.bolzhelarskii.hw13;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+//реалізувати бінарний пошук
 public class BinarySearch {
     public static void main(String[] args) {
         int counter;

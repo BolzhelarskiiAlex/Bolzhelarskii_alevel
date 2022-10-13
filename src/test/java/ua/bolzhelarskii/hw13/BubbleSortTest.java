@@ -10,7 +10,7 @@ class BubbleSortTest {
 
     @Test
     void sort() {
-        String[] start = new String[]{111, 222, 333};
+        String[] start = new String[]{111, 222, 333, 444};
         String[] expectedResult = temp.getResult(start);
         String[] result = new String[];
         assertArrayEquals(result, expectedResult);

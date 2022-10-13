@@ -2,7 +2,7 @@ package ua.bolzhelarskii.hw13;
 
 import java.util.Arrays;
 import java.util.Random;
-
+//реалізувати сортування пухирцем / бульбашкою
 public class BubbleSort {
     public static void main(String[] args) {
         int[] randomNum = new int[10];
