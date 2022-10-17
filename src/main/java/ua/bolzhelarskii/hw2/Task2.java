@@ -2,11 +2,11 @@ package ua.bolzhelarskii.hw2;
 
 public class Task2 {
     public static void main(String[] args) {
-
-        System.out.println("Area of a triangle is " +area());
+        int x = 0;
+        System.out.println("Area of a triangle is " + area(x));
     }
 
-    private static int area() {
+    private static int area(int x) {
         int x1 = 1;
         int x2 = 3;
         int x3 = 6;
