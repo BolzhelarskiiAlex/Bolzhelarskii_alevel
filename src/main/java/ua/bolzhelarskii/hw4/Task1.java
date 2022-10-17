@@ -5,7 +5,7 @@ import java.util.Random;
 
 public class Task1 {
     public static void main(String[] args) {
-        int[] randomNum = new int[400];
+        int[] randomNum = new int[5];
         fillArray(randomNum);
         int arr[] = randomNum;
         int n = arr.length;
@@ -22,14 +22,14 @@ public class Task1 {
         }
     }
 
-    private static int getArrayAverage(int[] randomNum) {
-        int sum = 0;
-        int average;
+    private static double getArrayAverage(int[] randomNum) {
+        double sum = 0;
+        double average;
         for (int i = 0; i < randomNum.length; i++) {
             sum = sum + randomNum[i];
         }
         average = sum / randomNum.length;
-        return average;
+        return  average;
     }
     private static double getArrayAverageGeometrical(int arr[], int n) {
         double product = 1;
