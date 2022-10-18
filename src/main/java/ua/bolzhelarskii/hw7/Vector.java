@@ -2,7 +2,7 @@ package ua.bolzhelarskii.hw7;
 
 import java.util.Arrays;
 import java.util.Random;
-
+//vector
 public class Vector {
     private final double x;
     private final double y;
