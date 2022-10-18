@@ -20,12 +20,15 @@ public class Task4 {
             randomNum[i] = random.nextInt(10) + 1;
         }
     }
-    public static int[] arrayCopy(int[] initialArray){
-        return  Arrays.copyOf(initialArray, initialArray.length);
+
+    public static int[] arrayCopy(int[] initialArray) {
+        return Arrays.copyOf(initialArray, initialArray.length);
     }
+
     private static int[] copyFullArrayUsingClone(int[] randomNum) {
+        arrayCopy(randomNum);
         for (int i = 0; i < randomNum.length; i++) {
-            if (randomNum[i] % 2 == 0){
+            if (randomNum[i] % 2 == 0) {
                 randomNum[i] = 0;
             }
         }
