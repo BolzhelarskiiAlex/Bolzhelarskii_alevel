@@ -22,16 +22,17 @@ public class Task4 {
     }
 
     public static int[] arrayCopy(int[] initialArray) {
+
         return Arrays.copyOf(initialArray, initialArray.length);
     }
 
-    private static int[] copyFullArrayUsingClone(int[] randomNum) {
-        arrayCopy(randomNum);
-        for (int i = 0; i < randomNum.length; i++) {
-            if (randomNum[i] % 2 == 0) {
-                randomNum[i] = 0;
+    private static int[] copyFullArrayUsingClone(int[] initialArray) {
+        arrayCopy(initialArray);
+        for (int i = 0; i < initialArray.length; i++) {
+            if (initialArray[i] % 2 == 0) {
+                initialArray[i] = 0;
             }
         }
-        return randomNum;
+        return initialArray;
     }
 }
