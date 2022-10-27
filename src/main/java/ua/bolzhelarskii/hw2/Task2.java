@@ -12,7 +12,7 @@ public class Task2 {
     }
 
     private static int area(int x1, int x2, int x3, int y1, int y2, int y3) {
-        int S = ((x1 - x3) * (y2 - y3) - (x2 - x3) * (y1 - y3)) / 2;
-        return S;
+        int s = ((x1 - x3) * (y2 - y3) - (x2 - x3) * (y1 - y3)) / 2;
+        return s;
     }
 }
