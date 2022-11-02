@@ -1,4 +1,5 @@
 package ua.bolzhelarskii.hw6;
+//Найдена ошибка на 20й строке
 public class Task2 {
     public static void main(String[] args) {
         int[][] triangle = new int[5][];
@@ -16,7 +17,7 @@ public class Task2 {
             }
         }
         for (int i = 0; i < triangle.length; i++) {
-            for (int j = 0; i < triangle[i].length; j++) {
+            for (int j = 0; j < triangle[i].length; j++) {   //Ошибка где 'i <'..следует заменить на 'j <'
                 System.out.print(triangle[i][j] + " ");
             }
             System.out.println();
