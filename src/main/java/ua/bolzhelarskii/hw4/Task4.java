@@ -26,13 +26,14 @@ public class Task4 {
         return Arrays.copyOf(initialArray, initialArray.length);
     }
 
-    private static int[] copyFullArrayUsingClone(int[] initialArray) {
-        arrayCopy(initialArray);
-        for (int i = 0; i < initialArray.length; i++) {
-            if (initialArray[i] % 2 == 0) {
-                initialArray[i] = 0;
+    public static int[] copyFullArrayUsingClone(int[] array) {
+        int[] arrayEvenToZero = Arrays.copyOf(array, array.length);
+        for (int i = 0; i < arrayEvenToZero.length; i++) {
+            if (arrayEvenToZero[i] % 2 == 0) {
+                arrayEvenToZero[i] = 0;
             }
         }
-        return initialArray;
+        return arrayEvenToZero;
     }
+
 }
