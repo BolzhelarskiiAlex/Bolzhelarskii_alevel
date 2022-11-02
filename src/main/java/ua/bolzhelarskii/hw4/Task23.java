@@ -12,12 +12,11 @@ public class Task23 {
         System.out.println("Composite numbers: " + compositeCount(input));
     }
 
-    public static Random fillArray(int[] input) {
+    public static void fillArray(int[] input) {
         Random random = new Random();
         for (int i = 0; i < input.length; i++) {
-            input[i] = random.nextInt(0, 50);
+            input[i] = random.nextInt(10)+1;
         }
-        return random;
     }
 
     public static int primeCount(int[] input) {
