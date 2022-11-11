@@ -1,0 +1,22 @@
+type,series,model,diagonal,screen type,country,price
+Telephone,S-10,Samsung,none,OLED,none,400
+Telephone,iPhoneXR,iPhone,none,OLED,none,300
+Telephone,NokiaN73,Nokia,none,TFD ,none,100
+Telephone,SAMSUNG A35,Samsung,none,UFB ,none,200
+Telephone,LGn105,LG,none,OLED ,none,250
+Telephone,MotorolaX95,Motorola,none,UFB ,none,50
+Telephone,iPhone13S,iPhone,none,OLED,none,500
+Telephone,SiemensS10,Samsung,none,LCD,none,50
+Telephone,iPhone14,iPhone,none,OLED,none,150
+Telephone,NokiaN101,Nokia,none,TFD,none,150
+Television,RTI-14,none,25,LED,China,1000
+Television,AOC32,none,32,LED,China,1250
+Television,Qivi,none,32,LED,China,1100
+Television,SAMSUNG Watch,none,23,ELT,USA,1000
+Television,Smart SAMSUNG,none,23,OLED,Poland,1300
+Television,SAMSUNG UE50A,none,40,LED,Poland,2000
+Television,AOC 40,none,40,LED,China,1800
+Television,LG32Ultra,none,32,LED,USA,1600
+Television,LG23Smart,none,23,LED,USA,900
+Television,MiniTV25,none,25,ELT,Russia,1050
+Television,Xiaomi,none,25,ELT,,1000
