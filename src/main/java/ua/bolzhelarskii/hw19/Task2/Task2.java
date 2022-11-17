@@ -1,6 +1,6 @@
-package ua.bolzhelarskii.hw19;
+package ua.bolzhelarskii.hw19.Task2;
 
-public class Task {
+public class Task2 {
     public static void main(String[] args) {
         Box boxJson = new Box();
         BoxService.fillFromResources(boxJson, "Task19Box.json");

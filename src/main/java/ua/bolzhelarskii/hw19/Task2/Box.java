@@ -1,6 +1,8 @@
-package ua.bolzhelarskii.hw19;
+package ua.bolzhelarskii.hw19.Task2;
 
 import lombok.*;
+import ua.bolzhelarskii.hw19.Task2.Cargo;
+import ua.bolzhelarskii.hw19.Task2.MaxLiftingCapacity;
 
 import java.util.Date;
 

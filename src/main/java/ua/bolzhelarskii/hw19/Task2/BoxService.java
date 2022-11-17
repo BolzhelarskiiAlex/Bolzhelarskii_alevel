@@ -1,4 +1,7 @@
-package ua.bolzhelarskii.hw19;
+package ua.bolzhelarskii.hw19.Task2;
+
+import ua.bolzhelarskii.hw19.Task2.Cargo;
+import ua.bolzhelarskii.hw19.Task2.MaxLiftingCapacity;
 
 import java.io.BufferedReader;
 import java.io.File;
