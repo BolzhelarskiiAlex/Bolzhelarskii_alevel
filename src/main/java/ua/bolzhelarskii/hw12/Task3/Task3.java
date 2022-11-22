@@ -1,4 +1,4 @@
-package ua.bolzhelarskii.hw12;
+package ua.bolzhelarskii.hw12.Task3;
 
 import java.util.concurrent.ThreadLocalRandom;
 
@@ -24,19 +24,19 @@ public class Task3 {
     }
 }
 
-class MyFirstException extends Exception {
+class MyFirstException extends Exception{
     public MyFirstException(String message) {
         super(message);
     }
 }
 
-class MySecondException extends Exception {
+class MySecondException extends Exception{
     public MySecondException(String message) {
         super(message);
     }
 }
 
-class MyThirdException extends Exception {
+class MyThirdException extends Exception{
     public MyThirdException(String message) {
         super(message);
     }

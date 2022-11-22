@@ -1,4 +1,4 @@
-package ua.bolzhelarskii.hw12;
+package ua.bolzhelarskii.hw12.Task2;
 
 import java.io.IOException;
 
