@@ -46,8 +46,8 @@ public class ShopService {
             for (int j = 0; j < allItemsToBuy.get(randomItem).size(); j++) {
                 if (allItemsToBuy.get(randomItem).get(j).isEmpty()) {
                     try {
-                        throw new Uncorrected();
-                    } catch (Uncorrected e) {
+                        throw new UncorrectedException();
+                    } catch (UncorrectedException e) {
                         wrongItemIndex.add(randomItem);
                     }
                 }
