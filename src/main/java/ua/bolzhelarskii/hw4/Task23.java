@@ -5,35 +5,46 @@ import java.util.Random;
 
 public class Task23 {
     public static void main(String[] args) {
-        int[] randomNum = new int[10];
-        fillArray(randomNum);
-        System.out.println(Arrays.toString(randomNum));
-        System.out.println("Prime num is " + (Arrays.toString(countPrimes(randomNum))));
-        System.out.println("Composite num is " + (Arrays.toString(countPrimes(randomNum))));
+        int[] input = new int[1000];
+        fillArray(input);
+        System.out.println(Arrays.toString(input));
+        System.out.println("Prime numbers: " + primeCount(input));
+        System.out.println("Composite numbers: " + compositeCount(input));
     }
-    private static void fillArray(int[] randomNum) {
+
+    public static void fillArray(int[] input) {
         Random random = new Random();
-        for (int i = 0; i < randomNum.length; i++) {
-            randomNum[i] = random.nextInt(10) + 1;
+        for (int i = 0; i < input.length; i++) {
+            input[i] = random.nextInt(10)+1;
         }
     }
 
-    public static int[] countPrimes(int[] randomNum) {
-        int temp;
-        int[] num = randomNum;
-        boolean isPrime=true;
-        for (int i=2; i<= randomNum.length/2; i++) {
-            temp = randomNum.length % i;
-            if (temp == 0) {
-                isPrime = false;
-                break;
+    public static int primeCount(int[] input) {
+        int count = 0;
+        for (int element : input) {
+            if (element >= 2 && checkPrime(element)) {
+                count++;
             }
         }
-        if(isPrime) {
+        return count;
+    }
 
-        } else {
-
+    public static int compositeCount(int[] array) {
+        int count = 0;
+        for (int element : array) {
+            if (element >= 3 && !checkPrime(element)) {
+                count++;
+            }
         }
-        return randomNum;
+        return count;
+    }
+
+    public static boolean checkPrime(int num) {
+        for (int i = 2; i < num; i++) {
+            if (num % i == 0) {
+                return false;
+            }
+        }
+        return true;
     }
 }

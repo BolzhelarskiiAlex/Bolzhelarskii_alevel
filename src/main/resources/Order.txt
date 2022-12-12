@@ -1,0 +1,316 @@
+
+2022-11-09T14:53:59.132630900 this is time of create order 
+ For users Customer(id=Customer#1, email=person1@gmail.com, age=35)
+ All his Order by Now [Telephone{series='LGn105', model='LG', screenType='OLED ', price=250}, Television{series='AOC 40', diagonal=40, screenType='LED', country='China', price=1800}, Television{series='LG23Smart', diagonal=23, screenType='LED', country='USA', price=900}]
+2022-11-09T14:53:59.165829900 this is time of create order 
+ For users Customer(id=Customer#2, email=person2@yandex.ru, age=38)
+ All his Order by Now [Television{series='LG23Smart', diagonal=23, screenType='LED', country='USA', price=900}, Telephone{series='iPhone10S', model='iPhone', screenType='QLED', price=500}, Telephone{series='iPhone7', model='iPhone', screenType='QLED', price=300}, Telephone{series='iPhone10S', model='iPhone', screenType='QLED', price=500}]
+2022-11-09T14:53:59.166832300 this is time of create order 
+ For users Customer(id=Customer#3, email=person3@mail.ru, age=46)
+ All his Order by Now [Telephone{series='MotorolaX95', model='Motorola', screenType='UFB ', price=50}]
+2022-11-09T14:53:59.166832300 this is time of create order 
+ For users Customer(id=Customer#4, email=person4@gmail.com, age=48)
+ All his Order by Now [Television{series='TELEvI', diagonal=32, screenType='LED', country='China', price=1100}]
+2022-11-09T14:53:59.166832300 this is time of create order 
+ For users Customer(id=Customer#5, email=person5@mail.ua, age=49)
+ All his Order by Now [Television{series='RTI-14', diagonal=25, screenType='LED', country='China', price=1000}, Telephone{series='iPhone7', model='iPhone', screenType='QLED', price=300}, Telephone{series='NokiaN101', model='Nokia', screenType='TFD', price=150}, Telephone{series='iPhone7', model='iPhone', screenType='QLED', price=300}]
+2022-11-09T14:53:59.168318800 this is time of create order 
+ For users Customer(id=Customer#6, email=person6@mail.ua, age=48)
+ All his Order by Now [Telephone{series='SiemensS10', model='Samsung', screenType='LCD', price=50}, Telephone{series='MotorolaX95', model='Motorola', screenType='UFB ', price=50}]
+2022-11-09T14:53:59.168318800 this is time of create order 
+ For users Customer(id=Customer#7, email=person7@yandex.ru, age=29)
+ All his Order by Now [Television{series='Smart SAMSUNG', diagonal=23, screenType='QLED', country='Poland', price=1300}, Television{series='SAMSUNG Watch', diagonal=23, screenType='ELT', country='USA', price=1000}]
+2022-11-09T14:53:59.169336700 this is time of create order 
+ For users Customer(id=Customer#8, email=person8@mail.ru, age=52)
+ All his Order by Now [Television{series='LG32Ultra', diagonal=32, screenType='LED', country='USA', price=1600}, Telephone{series='NokiaN101', model='Nokia', screenType='TFD', price=150}]
+2022-11-09T14:53:59.169336700 this is time of create order 
+ For users Customer(id=Customer#9, email=person9@mail.ru, age=3)
+ All his Order by Now [Telephone{series='MotorolaX95', model='Motorola', screenType='UFB ', price=50}]
+2022-11-09T14:53:59.169336700 this is time of create order 
+ For users Customer(id=Customer#10, email=person10@rambler.com, age=12)
+ All his Order by Now [Television{series='TELEvI', diagonal=32, screenType='LED', country='China', price=1100}, Television{series='MiniTV25', diagonal=25, screenType='ELT', country='Russia', price=1050}]
+2022-11-09T14:53:59.170340100 this is time of create order 
+ For users Customer(id=Customer#11, email=person11@yandex.ru, age=11)
+ All his Order by Now [Television{series='SAMSUNG UE50A', diagonal=40, screenType='LED', country='Poland', price=2000}, Television{series='LG23Smart', diagonal=23, screenType='LED', country='USA', price=900}, Television{series='LG32Ultra', diagonal=32, screenType='LED', country='USA', price=1600}, Telephone{series='MotorolaX95', model='Motorola', screenType='UFB ', price=50}, Television{series='TELEvI', diagonal=32, screenType='LED', country='China', price=1100}]
+2022-11-09T14:53:59.170340100 this is time of create order 
+ For users Customer(id=Customer#12, email=person12@rambler.com, age=46)
+ All his Order by Now [Television{series='AOC32', diagonal=32, screenType='LED', country='China', price=1250}, Television{series='LG23Smart', diagonal=23, screenType='LED', country='USA', price=900}, Telephone{series='iPhone5', model='iPhone', screenType='QLED', price=150}]
+2022-11-09T14:53:59.170340100 this is time of create order 
+ For users Customer(id=Customer#13, email=person13@mail.ua, age=29)
+ All his Order by Now [Telephone{series='NokiaN73', model='Nokia', screenType='TFD ', price=100}]
+2022-11-09T14:53:59.171709900 this is time of create order 
+ For users Customer(id=Customer#14, email=person14@mail.ru, age=55)
+ All his Order by Now [Telephone{series='NokiaN73', model='Nokia', screenType='TFD ', price=100}, Television{series='RTI-14', diagonal=25, screenType='LED', country='China', price=1000}, Television{series='LG23Smart', diagonal=23, screenType='LED', country='USA', price=900}]
+2022-11-09T14:53:59.171709900 this is time of create order 
+ For users Customer(id=Customer#15, email=person15@yandex.ru, age=59)
+ All his Order by Now [Television{series='LG32Ultra', diagonal=32, screenType='LED', country='USA', price=1600}, Television{series='LG23Smart', diagonal=23, screenType='LED', country='USA', price=900}, Telephone{series='LGn105', model='LG', screenType='OLED ', price=250}, Telephone{series='iPhone5', model='iPhone', screenType='QLED', price=150}, Telephone{series='S-10', model='Samsung', screenType='OLED', price=400}]
+2022-11-09T15:00:46.976757 this is time of create order 
+ For users Customer(id=Customer#1, email=person1@mail.ua, age=0)
+ All his Order by Now [Telephone{series='LGn105', model='LG', screenType='OLED ', price=250}]
+2022-11-09T15:00:47.006756 this is time of create order 
+ For users Customer(id=Customer#2, email=person2@gmail.com, age=6)
+ All his Order by Now [Television{series='AOC32', diagonal=32, screenType='LED', country='China', price=1250}, Telephone{series='LGn105', model='LG', screenType='OLED ', price=250}]
+2022-11-09T15:00:47.014756700 this is time of create order 
+ For users Customer(id=Customer#3, email=person3@gmail.com, age=27)
+ All his Order by Now [Telephone{series='LGn105', model='LG', screenType='OLED ', price=250}, Telephone{series='NokiaN101', model='Nokia', screenType='TFD', price=150}, Television{series='AOC 40', diagonal=40, screenType='LED', country='China', price=1800}]
+2022-11-09T15:00:47.014756700 this is time of create order 
+ For users Customer(id=Customer#4, email=person4@mail.ua, age=10)
+ All his Order by Now [Television{series='LG32Ultra', diagonal=32, screenType='LED', country='USA', price=1600}, Telephone{series='SiemensS10', model='Samsung', screenType='LCD', price=50}, Telephone{series='SiemensS10', model='Samsung', screenType='LCD', price=50}]
+2022-11-09T15:00:47.015756200 this is time of create order 
+ For users Customer(id=Customer#5, email=person5@yandex.ru, age=21)
+ All his Order by Now [Telephone{series='S-10', model='Samsung', screenType='OLED', price=400}]
+2022-11-09T15:00:47.015756200 this is time of create order 
+ For users Customer(id=Customer#6, email=person6@gmail.com, age=0)
+ All his Order by Now [Telephone{series='iPhone10S', model='iPhone', screenType='QLED', price=500}, Television{series='AOC 40', diagonal=40, screenType='LED', country='China', price=1800}, Telephone{series='LGn105', model='LG', screenType='OLED ', price=250}]
+2022-11-09T15:00:47.016757100 this is time of create order 
+ For users Customer(id=Customer#7, email=person7@yandex.ru, age=26)
+ All his Order by Now [Television{series='SAMSUNG UE50A', diagonal=40, screenType='LED', country='Poland', price=2000}]
+2022-11-09T15:00:47.016757100 this is time of create order 
+ For users Customer(id=Customer#8, email=person8@yandex.ru, age=35)
+ All his Order by Now [Telephone{series='MotorolaX95', model='Motorola', screenType='UFB ', price=50}]
+2022-11-09T15:00:47.017756 this is time of create order 
+ For users Customer(id=Customer#9, email=person9@gmail.com, age=17)
+ All his Order by Now [Telephone{series='iPhone10S', model='iPhone', screenType='QLED', price=500}, Television{series='TELEvI', diagonal=32, screenType='LED', country='China', price=1100}, Television{series='LG32Ultra', diagonal=32, screenType='LED', country='USA', price=1600}]
+2022-11-09T15:00:47.017756 this is time of create order 
+ For users Customer(id=Customer#10, email=person10@yandex.ru, age=35)
+ All his Order by Now [Television{series='RTI-14', diagonal=25, screenType='LED', country='China', price=1000}, Telephone{series='iPhone10S', model='iPhone', screenType='QLED', price=500}, Telephone{series='SAMSUNG A35', model='Samsung', screenType='UFB ', price=200}, Television{series='LG23Smart', diagonal=23, screenType='LED', country='USA', price=900}, Television{series='LG32Ultra', diagonal=32, screenType='LED', country='USA', price=1600}]
+2022-11-09T15:00:47.018755600 this is time of create order 
+ For users Customer(id=Customer#11, email=person11@mail.ru, age=34)
+ All his Order by Now [Telephone{series='S-10', model='Samsung', screenType='OLED', price=400}, Telephone{series='NokiaN73', model='Nokia', screenType='TFD ', price=100}, Telephone{series='SiemensS10', model='Samsung', screenType='LCD', price=50}]
+2022-11-09T15:00:47.018755600 this is time of create order 
+ For users Customer(id=Customer#12, email=person12@yandex.ru, age=45)
+ All his Order by Now [Television{series='RTI-14', diagonal=25, screenType='LED', country='China', price=1000}, Television{series='MiniTV25', diagonal=25, screenType='ELT', country='Russia', price=1050}, Television{series='LG23Smart', diagonal=23, screenType='LED', country='USA', price=900}]
+2022-11-09T15:00:47.019756400 this is time of create order 
+ For users Customer(id=Customer#13, email=person13@rambler.com, age=34)
+ All his Order by Now [Television{series='LG23Smart', diagonal=23, screenType='LED', country='USA', price=900}, Telephone{series='iPhone5', model='iPhone', screenType='QLED', price=150}]
+2022-11-09T15:00:47.019756400 this is time of create order 
+ For users Customer(id=Customer#14, email=person14@mail.ua, age=31)
+ All his Order by Now [Television{series='TELEvI', diagonal=32, screenType='LED', country='China', price=1100}, Television{series='LG23Smart', diagonal=23, screenType='LED', country='USA', price=900}]
+2022-11-09T15:00:47.020756600 this is time of create order 
+ For users Customer(id=Customer#15, email=person15@yandex.ru, age=51)
+ All his Order by Now [Television{series='LG23Smart', diagonal=23, screenType='LED', country='USA', price=900}, Television{series='SAMSUNG Watch', diagonal=23, screenType='ELT', country='USA', price=1000}]
+2022-11-09T15:07:52.164880500 this is time of create order 
+ For users Customer(id=Customer#1, email=person1@mail.ua, age=5)
+ All his Order by Now [Telephone{series='iPhone10S', model='iPhone', screenType='QLED', price=500}, Television{series='SAMSUNG Watch', diagonal=23, screenType='ELT', country='USA', price=1000}, Television{series='LG32Ultra', diagonal=32, screenType='LED', country='USA', price=1600}]
+2022-11-09T15:07:52.195884100 this is time of create order 
+ For users Customer(id=Customer#2, email=person2@mail.ua, age=54)
+ All his Order by Now [Television{series='SAMSUNG Watch', diagonal=23, screenType='ELT', country='USA', price=1000}, Telephone{series='SiemensS10', model='Samsung', screenType='LCD', price=50}, Television{series='LG32Ultra', diagonal=32, screenType='LED', country='USA', price=1600}]
+2022-11-09T15:07:52.196877800 this is time of create order 
+ For users Customer(id=Customer#3, email=person3@yandex.ru, age=14)
+ All his Order by Now [Television{series='LG32Ultra', diagonal=32, screenType='LED', country='USA', price=1600}, Television{series='TELEvI', diagonal=32, screenType='LED', country='China', price=1100}]
+2022-11-09T15:07:52.196877800 this is time of create order 
+ For users Customer(id=Customer#4, email=person4@gmail.com, age=2)
+ All his Order by Now [Television{series='LG32Ultra', diagonal=32, screenType='LED', country='USA', price=1600}]
+2022-11-09T15:07:52.197878500 this is time of create order 
+ For users Customer(id=Customer#5, email=person5@mail.ru, age=59)
+ All his Order by Now [Telephone{series='MotorolaX95', model='Motorola', screenType='UFB ', price=50}, Television{series='AOC32', diagonal=32, screenType='LED', country='China', price=1250}, Telephone{series='iPhone5', model='iPhone', screenType='QLED', price=150}]
+2022-11-09T15:07:52.198891300 this is time of create order 
+ For users Customer(id=Customer#6, email=person6@yandex.ru, age=31)
+ All his Order by Now [Television{series='SAMSUNG UE50A', diagonal=40, screenType='LED', country='Poland', price=2000}]
+2022-11-09T15:07:52.198891300 this is time of create order 
+ For users Customer(id=Customer#7, email=person7@rambler.com, age=23)
+ All his Order by Now [Telephone{series='NokiaN73', model='Nokia', screenType='TFD ', price=100}, Telephone{series='LGn105', model='LG', screenType='OLED ', price=250}, Telephone{series='NokiaN101', model='Nokia', screenType='TFD', price=150}, Telephone{series='LGn105', model='LG', screenType='OLED ', price=250}]
+2022-11-09T15:07:52.198891300 this is time of create order 
+ For users Customer(id=Customer#8, email=person8@rambler.com, age=28)
+ All his Order by Now [Telephone{series='SAMSUNG A35', model='Samsung', screenType='UFB ', price=200}, Telephone{series='LGn105', model='LG', screenType='OLED ', price=250}, Television{series='LG32Ultra', diagonal=32, screenType='LED', country='USA', price=1600}]
+2022-11-09T15:07:52.199887600 this is time of create order 
+ For users Customer(id=Customer#9, email=person9@rambler.com, age=56)
+ All his Order by Now [Telephone{series='SiemensS10', model='Samsung', screenType='LCD', price=50}, Telephone{series='S-10', model='Samsung', screenType='OLED', price=400}]
+2022-11-09T15:07:52.199887600 this is time of create order 
+ For users Customer(id=Customer#10, email=person10@yandex.ru, age=32)
+ All his Order by Now [Television{series='AOC32', diagonal=32, screenType='LED', country='China', price=1250}, Television{series='MiniTV25', diagonal=25, screenType='ELT', country='Russia', price=1050}, Telephone{series='SAMSUNG A35', model='Samsung', screenType='UFB ', price=200}, Telephone{series='NokiaN101', model='Nokia', screenType='TFD', price=150}]
+2022-11-09T15:07:52.200878400 this is time of create order 
+ For users Customer(id=Customer#11, email=person11@mail.ua, age=31)
+ All his Order by Now [Television{series='LG23Smart', diagonal=23, screenType='LED', country='USA', price=900}, Television{series='RTI-14', diagonal=25, screenType='LED', country='China', price=1000}]
+2022-11-09T15:07:52.200878400 this is time of create order 
+ For users Customer(id=Customer#12, email=person12@mail.ru, age=56)
+ All his Order by Now [Telephone{series='iPhone7', model='iPhone', screenType='QLED', price=300}, Telephone{series='SAMSUNG A35', model='Samsung', screenType='UFB ', price=200}, Telephone{series='S-10', model='Samsung', screenType='OLED', price=400}]
+2022-11-09T15:07:52.201879900 this is time of create order 
+ For users Customer(id=Customer#13, email=person13@mail.ua, age=20)
+ All his Order by Now [Telephone{series='iPhone5', model='iPhone', screenType='QLED', price=150}, Telephone{series='LGn105', model='LG', screenType='OLED ', price=250}]
+2022-11-09T15:07:52.201879900 this is time of create order 
+ For users Customer(id=Customer#14, email=person14@gmail.com, age=46)
+ All his Order by Now [Television{series='SAMSUNG Watch', diagonal=23, screenType='ELT', country='USA', price=1000}, Telephone{series='iPhone5', model='iPhone', screenType='QLED', price=150}]
+2022-11-09T15:07:52.201879900 this is time of create order 
+ For users Customer(id=Customer#15, email=person15@yandex.ru, age=5)
+ All his Order by Now [Telephone{series='NokiaN73', model='Nokia', screenType='TFD ', price=100}, Television{series='TELEvI', diagonal=32, screenType='LED', country='China', price=1100}]
+2022-11-09T15:12:33.942914700 this is time of create order 
+ For users Customer(id=Customer#1, email=person1@rambler.com, age=48)
+ All his Order by Now [Telephone{series='iPhone7', model='iPhone', screenType='QLED', price=300}, Telephone{series='SiemensS10', model='Samsung', screenType='LCD', price=50}]
+2022-11-09T15:12:33.969913800 this is time of create order 
+ For users Customer(id=Customer#2, email=person2@gmail.com, age=4)
+ All his Order by Now [Telephone{series='MotorolaX95', model='Motorola', screenType='UFB ', price=50}, Telephone{series='iPhone5', model='iPhone', screenType='QLED', price=150}, Television{series='Smart SAMSUNG', diagonal=23, screenType='QLED', country='Poland', price=1300}]
+2022-11-09T15:12:33.977967100 this is time of create order 
+ For users Customer(id=Customer#3, email=person3@yandex.ru, age=30)
+ All his Order by Now [Television{series='SAMSUNG UE50A', diagonal=40, screenType='LED', country='Poland', price=2000}]
+2022-11-09T15:12:33.977967100 this is time of create order 
+ For users Customer(id=Customer#4, email=person4@yandex.ru, age=6)
+ All his Order by Now [Telephone{series='MotorolaX95', model='Motorola', screenType='UFB ', price=50}, Television{series='AOC32', diagonal=32, screenType='LED', country='China', price=1250}]
+2022-11-09T15:12:33.978966900 this is time of create order 
+ For users Customer(id=Customer#5, email=person5@gmail.com, age=59)
+ All his Order by Now [Telephone{series='iPhone5', model='iPhone', screenType='QLED', price=150}, Television{series='AOC 40', diagonal=40, screenType='LED', country='China', price=1800}]
+2022-11-09T15:12:33.978966900 this is time of create order 
+ For users Customer(id=Customer#6, email=person6@yandex.ru, age=12)
+ All his Order by Now [Telephone{series='S-10', model='Samsung', screenType='OLED', price=400}, Television{series='LG32Ultra', diagonal=32, screenType='LED', country='USA', price=1600}, Telephone{series='NokiaN73', model='Nokia', screenType='TFD ', price=100}, Television{series='AOC32', diagonal=32, screenType='LED', country='China', price=1250}]
+2022-11-09T15:12:33.979963800 this is time of create order 
+ For users Customer(id=Customer#7, email=person7@rambler.com, age=16)
+ All his Order by Now [Telephone{series='iPhone10S', model='iPhone', screenType='QLED', price=500}, Television{series='TELEvI', diagonal=32, screenType='LED', country='China', price=1100}, Telephone{series='MotorolaX95', model='Motorola', screenType='UFB ', price=50}]
+2022-11-09T15:12:33.979963800 this is time of create order 
+ For users Customer(id=Customer#8, email=person8@rambler.com, age=22)
+ All his Order by Now [Television{series='RTI-14', diagonal=25, screenType='LED', country='China', price=1000}, Television{series='LG23Smart', diagonal=23, screenType='LED', country='USA', price=900}, Television{series='LG23Smart', diagonal=23, screenType='LED', country='USA', price=900}, Telephone{series='SiemensS10', model='Samsung', screenType='LCD', price=50}]
+2022-11-09T15:12:33.979963800 this is time of create order 
+ For users Customer(id=Customer#9, email=person9@yandex.ru, age=37)
+ All his Order by Now [Telephone{series='SiemensS10', model='Samsung', screenType='LCD', price=50}, Television{series='Smart SAMSUNG', diagonal=23, screenType='QLED', country='Poland', price=1300}]
+2022-11-09T15:12:33.980963100 this is time of create order 
+ For users Customer(id=Customer#10, email=person10@gmail.com, age=16)
+ All his Order by Now [Telephone{series='S-10', model='Samsung', screenType='OLED', price=400}, Telephone{series='SiemensS10', model='Samsung', screenType='LCD', price=50}]
+2022-11-09T15:12:33.980963100 this is time of create order 
+ For users Customer(id=Customer#11, email=person11@mail.ru, age=58)
+ All his Order by Now [Television{series='AOC 40', diagonal=40, screenType='LED', country='China', price=1800}, Telephone{series='SiemensS10', model='Samsung', screenType='LCD', price=50}, Telephone{series='SAMSUNG A35', model='Samsung', screenType='UFB ', price=200}]
+2022-11-09T15:12:33.981968 this is time of create order 
+ For users Customer(id=Customer#12, email=person12@mail.ua, age=25)
+ All his Order by Now [Television{series='LG23Smart', diagonal=23, screenType='LED', country='USA', price=900}, Telephone{series='SAMSUNG A35', model='Samsung', screenType='UFB ', price=200}, Television{series='SAMSUNG Watch', diagonal=23, screenType='ELT', country='USA', price=1000}]
+2022-11-09T15:12:33.981968 this is time of create order 
+ For users Customer(id=Customer#13, email=person13@gmail.com, age=22)
+ All his Order by Now [Television{series='AOC32', diagonal=32, screenType='LED', country='China', price=1250}, Telephone{series='NokiaN73', model='Nokia', screenType='TFD ', price=100}]
+2022-11-09T15:12:33.982965 this is time of create order 
+ For users Customer(id=Customer#14, email=person14@rambler.com, age=10)
+ All his Order by Now [Television{series='MiniTV25', diagonal=25, screenType='ELT', country='Russia', price=1050}, Television{series='SAMSUNG UE50A', diagonal=40, screenType='LED', country='Poland', price=2000}, Telephone{series='iPhone7', model='iPhone', screenType='QLED', price=300}, Television{series='LG32Ultra', diagonal=32, screenType='LED', country='USA', price=1600}]
+2022-11-09T15:12:33.982965 this is time of create order 
+ For users Customer(id=Customer#15, email=person15@rambler.com, age=36)
+ All his Order by Now [Telephone{series='SiemensS10', model='Samsung', screenType='LCD', price=50}]
+2022-11-09T15:14:46.474008800 this is time of create order 
+ For users Customer(id=Customer#1, email=person1@gmail.com, age=35)
+ All his Order by Now [Telephone{series='LGn105', model='LG', screenType='OLED ', price=250}, Telephone{series='iPhone5', model='iPhone', screenType='QLED', price=150}]
+2022-11-09T15:14:46.505008200 this is time of create order 
+ For users Customer(id=Customer#2, email=person2@gmail.com, age=21)
+ All his Order by Now [Television{series='LG32Ultra', diagonal=32, screenType='LED', country='USA', price=1600}, Television{series='MiniTV25', diagonal=25, screenType='ELT', country='Russia', price=1050}]
+2022-11-09T15:14:46.512008100 this is time of create order 
+ For users Customer(id=Customer#3, email=person3@mail.ru, age=20)
+ All his Order by Now [Telephone{series='iPhone10S', model='iPhone', screenType='QLED', price=500}, Television{series='TELEvI', diagonal=32, screenType='LED', country='China', price=1100}]
+2022-11-09T15:14:46.512008100 this is time of create order 
+ For users Customer(id=Customer#4, email=person4@yandex.ru, age=28)
+ All his Order by Now [Telephone{series='NokiaN73', model='Nokia', screenType='TFD ', price=100}, Television{series='MiniTV25', diagonal=25, screenType='ELT', country='Russia', price=1050}, Telephone{series='NokiaN73', model='Nokia', screenType='TFD ', price=100}, Telephone{series='SiemensS10', model='Samsung', screenType='LCD', price=50}]
+2022-11-09T15:14:46.513011900 this is time of create order 
+ For users Customer(id=Customer#5, email=person5@yandex.ru, age=27)
+ All his Order by Now [Telephone{series='NokiaN73', model='Nokia', screenType='TFD ', price=100}, Telephone{series='iPhone7', model='iPhone', screenType='QLED', price=300}, Television{series='LG32Ultra', diagonal=32, screenType='LED', country='USA', price=1600}]
+2022-11-09T15:14:46.513011900 this is time of create order 
+ For users Customer(id=Customer#6, email=person6@mail.ru, age=41)
+ All his Order by Now [Television{series='Smart SAMSUNG', diagonal=23, screenType='QLED', country='Poland', price=1300}, Television{series='Smart SAMSUNG', diagonal=23, screenType='QLED', country='Poland', price=1300}, Television{series='TELEvI', diagonal=32, screenType='LED', country='China', price=1100}, Telephone{series='SiemensS10', model='Samsung', screenType='LCD', price=50}, Television{series='AOC32', diagonal=32, screenType='LED', country='China', price=1250}]
+2022-11-09T15:14:46.514007800 this is time of create order 
+ For users Customer(id=Customer#7, email=person7@rambler.com, age=28)
+ All his Order by Now [Television{series='Smart SAMSUNG', diagonal=23, screenType='QLED', country='Poland', price=1300}]
+2022-11-09T15:14:46.514007800 this is time of create order 
+ For users Customer(id=Customer#8, email=person8@gmail.com, age=42)
+ All his Order by Now [Television{series='Smart SAMSUNG', diagonal=23, screenType='QLED', country='Poland', price=1300}, Television{series='SAMSUNG UE50A', diagonal=40, screenType='LED', country='Poland', price=2000}]
+2022-11-09T15:14:46.515030600 this is time of create order 
+ For users Customer(id=Customer#9, email=person9@mail.ua, age=54)
+ All his Order by Now [Telephone{series='NokiaN73', model='Nokia', screenType='TFD ', price=100}, Telephone{series='S-10', model='Samsung', screenType='OLED', price=400}, Telephone{series='MotorolaX95', model='Motorola', screenType='UFB ', price=50}, Telephone{series='LGn105', model='LG', screenType='OLED ', price=250}]
+2022-11-09T15:14:46.515030600 this is time of create order 
+ For users Customer(id=Customer#10, email=person10@yandex.ru, age=17)
+ All his Order by Now [Telephone{series='iPhone7', model='iPhone', screenType='QLED', price=300}, Television{series='LG32Ultra', diagonal=32, screenType='LED', country='USA', price=1600}]
+2022-11-09T15:14:46.515030600 this is time of create order 
+ For users Customer(id=Customer#11, email=person11@mail.ua, age=25)
+ All his Order by Now [Television{series='MiniTV25', diagonal=25, screenType='ELT', country='Russia', price=1050}]
+2022-11-09T15:14:46.516010700 this is time of create order 
+ For users Customer(id=Customer#12, email=person12@mail.ua, age=33)
+ All his Order by Now [Television{series='MiniTV25', diagonal=25, screenType='ELT', country='Russia', price=1050}, Telephone{series='SiemensS10', model='Samsung', screenType='LCD', price=50}]
+2022-11-09T15:14:46.516010700 this is time of create order 
+ For users Customer(id=Customer#13, email=person13@rambler.com, age=9)
+ All his Order by Now [Telephone{series='MotorolaX95', model='Motorola', screenType='UFB ', price=50}, Television{series='MiniTV25', diagonal=25, screenType='ELT', country='Russia', price=1050}]
+2022-11-09T15:14:46.517008800 this is time of create order 
+ For users Customer(id=Customer#14, email=person14@gmail.com, age=33)
+ All his Order by Now [Telephone{series='SAMSUNG A35', model='Samsung', screenType='UFB ', price=200}, Television{series='LG23Smart', diagonal=23, screenType='LED', country='USA', price=900}]
+2022-11-09T15:14:46.517008800 this is time of create order 
+ For users Customer(id=Customer#15, email=person15@mail.ru, age=55)
+ All his Order by Now [Telephone{series='NokiaN73', model='Nokia', screenType='TFD ', price=100}, Telephone{series='S-10', model='Samsung', screenType='OLED', price=400}, Telephone{series='S-10', model='Samsung', screenType='OLED', price=400}, Telephone{series='iPhone10S', model='iPhone', screenType='QLED', price=500}]
+2022-11-10T09:56:10.326349500 this is time of create order 
+ For users Customer(id=Customer#1, email=person1@mail.ua, age=12)
+ All his Order by Now [Television{series='MiniTV25', diagonal=25, screenType='ELT', country='Russia', price=1050}, Telephone{series='iPhone14', model='iPhone', screenType='OLED', price=150}, Telephone{series='iPhoneXR', model='iPhone', screenType='OLED', price=300}, Television{series='LG23Smart', diagonal=23, screenType='LED', country='USA', price=900}]
+2022-11-10T09:56:10.357350700 this is time of create order 
+ For users Customer(id=Customer#2, email=person2@gmail.com, age=42)
+ All his Order by Now [Television{series='LG32Ultra', diagonal=32, screenType='LED', country='USA', price=1600}, Television{series='RTI-14', diagonal=25, screenType='LED', country='China', price=1000}, Television{series='MiniTV25', diagonal=25, screenType='ELT', country='Russia', price=1050}, Television{series='AOC32', diagonal=32, screenType='LED', country='China', price=1250}]
+2022-11-10T09:56:10.357350700 this is time of create order 
+ For users Customer(id=Customer#3, email=person3@gmail.com, age=44)
+ All his Order by Now [Telephone{series='NokiaN73', model='Nokia', screenType='TFD ', price=100}, Telephone{series='MotorolaX95', model='Motorola', screenType='UFB ', price=50}, Television{series='Qivi', diagonal=32, screenType='LED', country='China', price=1100}, Television{series='Smart SAMSUNG', diagonal=23, screenType='OLED', country='Poland', price=1300}, Telephone{series='LGn105', model='LG', screenType='OLED ', price=250}]
+2022-11-10T09:56:10.358348100 this is time of create order 
+ For users Customer(id=Customer#4, email=person4@rambler.com, age=56)
+ All his Order by Now [Television{series='Smart SAMSUNG', diagonal=23, screenType='OLED', country='Poland', price=1300}, Television{series='MiniTV25', diagonal=25, screenType='ELT', country='Russia', price=1050}]
+2022-11-10T09:56:10.358348100 this is time of create order 
+ For users Customer(id=Customer#5, email=person5@rambler.com, age=31)
+ All his Order by Now [Television{series='LG23Smart', diagonal=23, screenType='LED', country='USA', price=900}, Telephone{series='SAMSUNG A35', model='Samsung', screenType='UFB ', price=200}, Television{series='Smart SAMSUNG', diagonal=23, screenType='OLED', country='Poland', price=1300}, Telephone{series='iPhoneXR', model='iPhone', screenType='OLED', price=300}]
+2022-11-10T09:56:10.359350 this is time of create order 
+ For users Customer(id=Customer#6, email=person6@mail.ru, age=1)
+ All his Order by Now [Telephone{series='MotorolaX95', model='Motorola', screenType='UFB ', price=50}, Television{series='AOC32', diagonal=32, screenType='LED', country='China', price=1250}]
+2022-11-10T09:56:10.359350 this is time of create order 
+ For users Customer(id=Customer#7, email=person7@rambler.com, age=6)
+ All his Order by Now [Telephone{series='MotorolaX95', model='Motorola', screenType='UFB ', price=50}]
+2022-11-10T09:56:10.359350 this is time of create order 
+ For users Customer(id=Customer#8, email=person8@gmail.com, age=32)
+ All his Order by Now [Telephone{series='LGn105', model='LG', screenType='OLED ', price=250}, Television{series='SAMSUNG Watch', diagonal=23, screenType='ELT', country='USA', price=1000}, Television{series='Qivi', diagonal=32, screenType='LED', country='China', price=1100}, Television{series='SAMSUNG Watch', diagonal=23, screenType='ELT', country='USA', price=1000}]
+2022-11-10T09:56:10.360592500 this is time of create order 
+ For users Customer(id=Customer#9, email=person9@gmail.com, age=45)
+ All his Order by Now [Television{series='LG23Smart', diagonal=23, screenType='LED', country='USA', price=900}, Television{series='Smart SAMSUNG', diagonal=23, screenType='OLED', country='Poland', price=1300}]
+2022-11-10T09:56:10.360592500 this is time of create order 
+ For users Customer(id=Customer#10, email=person10@rambler.com, age=9)
+ All his Order by Now [Television{series='AOC 40', diagonal=40, screenType='LED', country='China', price=1800}, Television{series='Qivi', diagonal=32, screenType='LED', country='China', price=1100}]
+2022-11-10T09:56:10.360592500 this is time of create order 
+ For users Customer(id=Customer#11, email=person11@mail.ua, age=31)
+ All his Order by Now [Television{series='SAMSUNG Watch', diagonal=23, screenType='ELT', country='USA', price=1000}, Television{series='LG32Ultra', diagonal=32, screenType='LED', country='USA', price=1600}]
+2022-11-10T09:56:10.361600 this is time of create order 
+ For users Customer(id=Customer#12, email=person12@yandex.ru, age=32)
+ All his Order by Now [Television{series='AOC32', diagonal=32, screenType='LED', country='China', price=1250}, Telephone{series='SiemensS10', model='Samsung', screenType='LCD', price=50}, Telephone{series='iPhone14', model='iPhone', screenType='OLED', price=150}, Telephone{series='SAMSUNG A35', model='Samsung', screenType='UFB ', price=200}, Television{series='RTI-14', diagonal=25, screenType='LED', country='China', price=1000}]
+2022-11-10T09:56:10.361600 this is time of create order 
+ For users Customer(id=Customer#13, email=person13@gmail.com, age=56)
+ All his Order by Now [Television{series='Qivi', diagonal=32, screenType='LED', country='China', price=1100}]
+2022-11-10T09:56:10.361600 this is time of create order 
+ For users Customer(id=Customer#14, email=person14@rambler.com, age=36)
+ All his Order by Now [Telephone{series='NokiaN101', model='Nokia', screenType='TFD', price=150}, Telephone{series='iPhone14', model='iPhone', screenType='OLED', price=150}, Television{series='RTI-14', diagonal=25, screenType='LED', country='China', price=1000}]
+2022-11-10T09:56:10.362849100 this is time of create order 
+ For users Customer(id=Customer#15, email=person15@rambler.com, age=45)
+ All his Order by Now [Television{series='LG32Ultra', diagonal=32, screenType='LED', country='USA', price=1600}, Telephone{series='SiemensS10', model='Samsung', screenType='LCD', price=50}, Telephone{series='iPhone13S', model='iPhone', screenType='OLED', price=500}]
+2022-11-10T10:06:16.131031500 this is time of create order 
+ For users Customer(id=Customer#1, email=person1@yandex.ru, age=47)
+ All his Order by Now [Telephone{series='NokiaN73', model='Nokia', screenType='TFD ', price=100}, Television{series='AOC 40', diagonal=40, screenType='LED', country='China', price=1800}, Television{series='LG32Ultra', diagonal=32, screenType='LED', country='USA', price=1600}]
+2022-11-10T10:06:16.165089700 this is time of create order 
+ For users Customer(id=Customer#2, email=person2@mail.ru, age=8)
+ All his Order by Now [Telephone{series='iPhoneXR', model='iPhone', screenType='OLED', price=300}, Telephone{series='NokiaN73', model='Nokia', screenType='TFD ', price=100}, Telephone{series='LGn105', model='LG', screenType='OLED ', price=250}]
+2022-11-10T10:06:16.166106300 this is time of create order 
+ For users Customer(id=Customer#3, email=person3@gmail.com, age=38)
+ All his Order by Now [Telephone{series='iPhoneXR', model='iPhone', screenType='OLED', price=300}, Television{series='AOC32', diagonal=32, screenType='LED', country='China', price=1250}, Telephone{series='LGn105', model='LG', screenType='OLED ', price=250}]
+2022-11-10T10:06:16.166106300 this is time of create order 
+ For users Customer(id=Customer#4, email=person4@rambler.com, age=46)
+ All his Order by Now [Telephone{series='iPhoneXR', model='iPhone', screenType='OLED', price=300}, Telephone{series='SAMSUNG A35', model='Samsung', screenType='UFB ', price=200}]
+2022-11-10T10:06:16.167103400 this is time of create order 
+ For users Customer(id=Customer#5, email=person5@mail.ru, age=33)
+ All his Order by Now [Television{series='SAMSUNG UE50A', diagonal=40, screenType='LED', country='Poland', price=2000}, Telephone{series='iPhoneXR', model='iPhone', screenType='OLED', price=300}]
+2022-11-10T10:06:16.167103400 this is time of create order 
+ For users Customer(id=Customer#6, email=person6@rambler.com, age=8)
+ All his Order by Now [Television{series='SAMSUNG UE50A', diagonal=40, screenType='LED', country='Poland', price=2000}]
+2022-11-10T10:06:16.167103400 this is time of create order 
+ For users Customer(id=Customer#7, email=person7@rambler.com, age=5)
+ All his Order by Now [Telephone{series='SAMSUNG A35', model='Samsung', screenType='UFB ', price=200}, Television{series='SAMSUNG Watch', diagonal=23, screenType='ELT', country='USA', price=1000}, Television{series='Qivi', diagonal=32, screenType='LED', country='China', price=1100}]
+2022-11-10T10:06:16.168090 this is time of create order 
+ For users Customer(id=Customer#8, email=person8@rambler.com, age=55)
+ All his Order by Now [Telephone{series='MotorolaX95', model='Motorola', screenType='UFB ', price=50}, Television{series='MiniTV25', diagonal=25, screenType='ELT', country='Russia', price=1050}]
+2022-11-10T10:06:16.168090 this is time of create order 
+ For users Customer(id=Customer#9, email=person9@rambler.com, age=50)
+ All his Order by Now [Television{series='LG32Ultra', diagonal=32, screenType='LED', country='USA', price=1600}, Telephone{series='NokiaN101', model='Nokia', screenType='TFD', price=150}]
+2022-11-10T10:06:16.168090 this is time of create order 
+ For users Customer(id=Customer#10, email=person10@mail.ua, age=1)
+ All his Order by Now [Telephone{series='SiemensS10', model='Samsung', screenType='LCD', price=50}, Telephone{series='MotorolaX95', model='Motorola', screenType='UFB ', price=50}]
+2022-11-10T10:06:16.169305200 this is time of create order 
+ For users Customer(id=Customer#11, email=person11@yandex.ru, age=13)
+ All his Order by Now [Telephone{series='NokiaN73', model='Nokia', screenType='TFD ', price=100}, Telephone{series='iPhone14', model='iPhone', screenType='OLED', price=150}]
+2022-11-10T10:06:16.169305200 this is time of create order 
+ For users Customer(id=Customer#12, email=person12@rambler.com, age=43)
+ All his Order by Now [Telephone{series='iPhoneXR', model='iPhone', screenType='OLED', price=300}, Telephone{series='iPhoneXR', model='iPhone', screenType='OLED', price=300}, Telephone{series='MotorolaX95', model='Motorola', screenType='UFB ', price=50}]
+2022-11-10T10:06:16.169305200 this is time of create order 
+ For users Customer(id=Customer#13, email=person13@gmail.com, age=22)
+ All his Order by Now [Telephone{series='SiemensS10', model='Samsung', screenType='LCD', price=50}, Telephone{series='S-10', model='Samsung', screenType='OLED', price=400}]
+2022-11-10T10:06:16.169305200 this is time of create order 
+ For users Customer(id=Customer#14, email=person14@yandex.ru, age=36)
+ All his Order by Now [Telephone{series='NokiaN73', model='Nokia', screenType='TFD ', price=100}, Telephone{series='SAMSUNG A35', model='Samsung', screenType='UFB ', price=200}, Telephone{series='SAMSUNG A35', model='Samsung', screenType='UFB ', price=200}]
+2022-11-10T10:06:16.169305200 this is time of create order 
+ For users Customer(id=Customer#15, email=person15@rambler.com, age=25)
+ All his Order by Now [Television{series='AOC 40', diagonal=40, screenType='LED', country='China', price=1800}, Television{series='Smart SAMSUNG', diagonal=23, screenType='OLED', country='Poland', price=1300}]
