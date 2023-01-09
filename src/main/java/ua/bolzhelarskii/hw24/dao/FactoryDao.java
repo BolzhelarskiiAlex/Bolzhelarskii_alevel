@@ -1,0 +1,26 @@
+package ua.bolzhelarskii.hw24.dao;
+
+import org.hibernate.Session;
+import org.hibernate.Transaction;
+import ua.bolzhelarskii.hw24.objects.Factory;
+import ua.bolzhelarskii.hw24.utils.HibernateSessionFactoryUtil;
+
+public class FactoryDao {
+    public void save(Factory factory) {
+        try (Session session = HibernateSessionFactoryUtil.getSessionFactory().openSession()) {
+            Transaction transaction = session.beginTransaction();
+            session.saveOrUpdate(factory);
+            transaction.commit();
+        }
+    }
+
+    public Factory getById(String id) {
+        Factory factory;
+        try (Session session = HibernateSessionFactoryUtil.getSessionFactory().openSession()) {
+            factory = session.createQuery("SELECT f FROM Factory f WHERE f.id = :id", Factory.class)
+                    .setParameter("id", id)
+                    .stream().findFirst().orElse(null);
+        }
+        return factory;
+    }
+}
